@@ -1,0 +1,22 @@
+{
+  "name": "CMBottomGestureView",
+  "version": "0.1.0",
+  "summary": "A short description of CMBottomGestureView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/CMJunghoon/CMBottomGestureView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "CMJunghoon": "cjh@renomedia.co.kr"
+  },
+  "source": {
+    "git": "https://github.com/CMJunghoon/CMBottomGestureView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CMBottomGestureView/Classes/**/*"
+}

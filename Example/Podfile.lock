@@ -1,0 +1,16 @@
+PODS:
+  - CMBottomGestureView (0.1.0)
+
+DEPENDENCIES:
+  - CMBottomGestureView (from `../`)
+
+EXTERNAL SOURCES:
+  CMBottomGestureView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CMBottomGestureView: da249fc71d7e6c76c824a588a1951795b0906cb0
+
+PODFILE CHECKSUM: 45040ffebec8eb667030f200823a64da8eca2f33
+
+COCOAPODS: 1.9.1

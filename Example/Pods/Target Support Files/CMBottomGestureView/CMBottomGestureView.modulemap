@@ -1,0 +1,6 @@
+framework module CMBottomGestureView {
+  umbrella header "CMBottomGestureView-umbrella.h"
+
+  export *
+  module * { export * }
+}

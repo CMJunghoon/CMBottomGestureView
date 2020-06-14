@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CMBottomGestureView_Example' do
+  pod 'CMBottomGestureView', :path => '../'
+
+  target 'CMBottomGestureView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
