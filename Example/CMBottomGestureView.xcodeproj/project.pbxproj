@@ -46,7 +46,7 @@
 		71D1854359D40C0FBF94972C /* Pods-CMBottomGestureView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CMBottomGestureView_Tests.release.xcconfig"; path = "Target Support Files/Pods-CMBottomGestureView_Tests/Pods-CMBottomGestureView_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		800435B11905281F16B31A6C /* Pods-CMBottomGestureView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CMBottomGestureView_Example.debug.xcconfig"; path = "Target Support Files/Pods-CMBottomGestureView_Example/Pods-CMBottomGestureView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		96EA7FEA7321D9A63AAA2E98 /* Pods_CMBottomGestureView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CMBottomGestureView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		EB2F2CFE335F348A5B4D9323 /* CMBottomGestureView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = CMBottomGestureView.podspec; path = ../CMBottomGestureView.podspec; sourceTree = "<group>"; };
+		EB2F2CFE335F348A5B4D9323 /* CMBottomGestureView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = CMBottomGestureView.podspec; path = ../CMBottomGestureView.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
