@@ -5,6 +5,9 @@
 [![License](https://img.shields.io/cocoapods/l/CMBottomGestureView.svg?style=flat)](https://cocoapods.org/pods/CMBottomGestureView)
 [![Platform](https://img.shields.io/cocoapods/p/CMBottomGestureView.svg?style=flat)](https://cocoapods.org/pods/CMBottomGestureView)
 
+## Preview
+![image](https://github.com/CMJunghoon/CMBottomGestureView/blob/master/Demo/CMBottomGestureView_Demo.gif)
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
