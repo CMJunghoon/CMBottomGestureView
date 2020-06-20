@@ -23,6 +23,16 @@ it, simply add the following line to your Podfile:
 pod 'CMBottomGestureView'
 ```
 
+## Use
+
+```swift
+let bottom = CMBottomGestureView(presentedView: view,
+                                     maxHeight: 500,
+                                     minHeight: 200,
+                                 swipeDownType: .stayBottom)
+view.addSubview(bottom)
+```
+
 ## Author
 
 CMJunghoon, cjh@renomedia.co.kr

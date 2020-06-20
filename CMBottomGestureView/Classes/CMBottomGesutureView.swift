@@ -140,7 +140,7 @@ public class CMBottomGestureView: UIView {
 }
 
 extension CMBottomGestureView {
-  private func dimmingAlpha(_ newOffset: CGFloat, _ currentOriginY: CGFloat) -> CGFloat {
+  func dimmingAlpha(_ newOffset: CGFloat, _ currentOriginY: CGFloat) -> CGFloat {
     dragDirection = newOffset > currentOriginY ? .down : .up
     
     let canDragInProposedDirection = dragDirection == .up && position == .open ? false : true
