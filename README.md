@@ -35,7 +35,7 @@ view.addSubview(bottom)
 
 ## Author
 
-CMJunghoon, cjh@renomedia.co.kr
+CMJunghoon, coolmint.swift@gmail.com
 
 ## License
 
